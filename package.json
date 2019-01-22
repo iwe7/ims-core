@@ -1,0 +1,29 @@
+{
+  "name": "ims-core",
+  "version": "0.0.14",
+  "description": "> TODO: description",
+  "author": "meepobrother <1037483576@qq.com>",
+  "homepage": "https://github.com/iwe7/nestchain#readme",
+  "license": "ISC",
+  "main": "src/index.ts",
+  "miniprogram": "lib",
+  "files": [
+    "lib"
+  ],
+  "dependencies": {
+    "ims-decorator": "^0.0.13",
+    "ims-rxjs": "^0.0.14",
+    "ims-util": "^0.0.14"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iwe7/nestchain.git"
+  },
+  "scripts": {
+    "tsc": "tsc -p tsconfig.json"
+  },
+  "bugs": {
+    "url": "https://github.com/iwe7/nestchain/issues"
+  },
+  "gitHead": "eaa27ad4b4492cb37882d91f32e58bbeb9a7f58c"
+}
